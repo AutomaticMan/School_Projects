@@ -1,0 +1,8 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS7\bin\Debug\CS7.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS7\bin\Debug\CS7.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS7\obj\Debug\CS7.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS7\obj\Debug\CS7.CS7Form.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS7\obj\Debug\CS7.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS7\obj\Debug\CS7.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS7\obj\Debug\CS7.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS7\obj\Debug\CS7.pdb

@@ -1,0 +1,12 @@
+c:\users\john\documents\visual studio 2012\Projects\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.RevenueForm.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb
+C:\Users\Robert\Documents\programming_projects\C#\John Gardiner(39925)- GreenvilleRevenueGUI\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
+C:\Users\Robert\Documents\programming_projects\C#\John Gardiner(39925)- GreenvilleRevenueGUI\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
+C:\Users\Robert\Documents\programming_projects\C#\John Gardiner(39925)- GreenvilleRevenueGUI\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb

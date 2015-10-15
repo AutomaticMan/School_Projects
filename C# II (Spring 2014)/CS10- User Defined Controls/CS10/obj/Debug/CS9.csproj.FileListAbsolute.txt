@@ -1,0 +1,13 @@
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\bin\Debug\FinancialCalculations.exe
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\bin\Debug\FinancialCalculations.pdb
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\obj\Debug\ResolveAssemblyReference.cache
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\obj\Debug\FinancialCalculations.frmFutureValue.resources
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\obj\Debug\FinancialCalculations.Properties.Resources.resources
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\obj\Debug\GenerateResource.read.1.tlog
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\obj\Debug\GenerateResource.write.1.tlog
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\obj\Debug\FinancialCalculations.exe
+C:\Marquez\web_marquez\cis262ad\workspace\CS9\obj\Debug\FinancialCalculations.pdb
+C:\Marquez\web_marquez\cis262ad\workspace\CS10\obj\Debug\FinancialCalculations.exe
+C:\Marquez\web_marquez\cis262ad\workspace\CS10\obj\Debug\FinancialCalculations.pdb

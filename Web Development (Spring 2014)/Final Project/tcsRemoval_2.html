@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Final Web Assignment
+			 Author: John Gardiner
+			 Date: 3/4/2013
+		-->        
+		<meta charset="UTF-8" />
+	    <meta name="author" content="John Gardiner" />
+	    <meta name="description" content="A site containing technical information on Saab automobiles. " />
+	    <meta name="keywords" content="saab, european, repair, maintenance information, forum, message board " />
+		<title>The Saab Workshop- TCS Removal</title>
+		<script src="modernizr-1.5.js"></script>
+		<link type="text/css" rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<header>
+				<h1><img src="images/saab_01.gif" alt="The Saab Workshop" usemap="#navMap" /></h1>			    
+				<map name="navMap">
+					<area  shape="rect" coords="167,66,260,99" alt="Main" href="main.html" />
+					<area  shape="rect" coords="272,67,365,100" alt="Forums" href="#" />
+					<area  shape="rect" coords="375,67,468,100" alt="Tech Tips" href="#" />
+				</map>
+		</header>
+		<section>
+			<h1>How To: Remove TCS From a Trionic 5.2 Saab 9000</h1>
+			<div style="text-align: center;"><h3><a href="tcsRemoval_1.html">Page 1</a> | <a href="tcsRemoval_2.html">Page 2</a></h3></div>
+			<article>
+			<p>
+			The next step is to remove the throttle cable.  If you followed the last step, it should no longer be connected to the pedal inside the car.  
+			Personally, I removed the brake reservoir to make clearance to remove the cable.  In retrospect, that was probably not necessary and as long as 
+			you can get some pliers on the metal part and pull straight back it will work.  If you don't pull straight back, the throttle cable will break 
+			where it enters the firewall. 
+			</p>
+			<div style="text-align: center;">
+				<img src="images/tcsremoval0018.jpg" alt="Throttle Cable Location" />
+				<p class="caption">
+				A close up of the ETS throttle cable entering the firewall.	
+				Pull straight back.
+				</p>
+			</div>
+			<div style="text-align: center;"><img src="images/tcsremoval0019.jpg" alt="Throttle Cable Removal" /></div>
+			<p> 
+			Once the old cable's out press the new one into the rubber bushing.   You can use some soapy water to lube the throttle cable and bushing.  
+			</p>
+			<p>
+			Go back under the dash and attach the cable to the pedal you just installed.
+			</p>
+			<p>
+			Next up is the throttle body.  It's held on by three 13mm nuts.  The AIC hose barb on the manual throttle body will get in the way when you 
+			reinstall one of the nuts.  Mine was kind of loose so I removed the barb, tightened the nut, then JB Welded it back into place.  Otherwise, 
+			you'll need a small 1/4-inch ratchet and 13mm socket to tighten the nut.
+			</p>
+			<p>
+			Once the manual throttle body is on you can attach the throttle linkage.  Then install the AIC with the arrow facing up.  There's a stud that's 
+			suppose to hold the AIC to the intake manifold.  Although the hole is there, the stud isn't and will need to be added.  I didn't have it so my AIC 
+			is just held up by the hoses.
+			</p>
+			<p>
+			The coolant sensor can be reached from the top in-between the intake runners.  The wrench size you need is 19mm.
+			</p>
+			<p>
+			At this point, you can test the throttle assembly and adjust if necessary.  The car is a few electrical changes away from being done...	
+			</p>
+			<h2>Add the wiring harness-</h2>
+			<div class="wiringBlock">
+				<h3>Wiring Information:</h3>
+				<h4>TPS:</h4>
+				<p>PIN 1 (Green/Red) to ECU PIN 42</p>
+				<p>PIN 2 (Black/White) to Intake manifold ground</p>
+				<p>PIN 3 (Gray) to ECU PIN 45</p>
+				<h4>AIC:</h4>
+				<p>PIN 1 (Red/Blue) to ECU PIN 49</p>
+				<p>PIN 2 (Blue/White) to Switched power source</p>
+				<h4>Coolant Sensor:</h4>
+				<p>PIN 1 (Yellow) to ECU PIN 68</p>
+				<p>PIN 2 (Black) to Intake manifold ground</p>
+				<h4>Coolant Sensor Reference:</h4>
+				<p>ECU PIN 66 (Black) to Intake manifold ground</p>
+				<p>NOTE: You don't need to know this info yet, but I'm adding it.</p>
+			</div>
+			<p>
+			This part is self explanatory.  Just plug in the connectors and run the wiring.  The three ground wires goto the grounding point on the intake manifold.  
+			The switched power can come from any of the fuel injectors or for a more professional approach- tap the switched power from the large blue/red wire running 
+			through the round connector on the false firewall (see picture).  Next comes the most important part of the whole process. 
+			</p>
+			<p>
+			You have to add the PINs from your harness into the ECU connector already in the car.  You need to make sure all the wires are going to their EXACT 
+			spots and that the little PINS fully seat into the large ECU connector.  I can't stress how important this part is.  TAKE YOUR TIME AND DO IT RIGHT THE 
+			FIRST TIME!  The PIN must be aligned properly in it's spot then it slides in pretty easily.   I used a pair of tweezers to push the PINs in.
+			</p>  
+			<p>
+			If you end up with a non-running car then you probably messed up here or sourced the wrong parts. Again, I would wait to tape up the harness until 
+			after the car's been tested.  The wires will be easier to trace/diagnose if they're separated.
+			</p>
+			<p>
+			Once you're satisfied with the wiring, install the non-TCS ECU.   Don't forget to add the ground strap.
+			</p>
+			<div style="text-align: center;">
+				<img src="images/DSCN0818.jpg" alt="Sensor Ground Point" />
+				<p class="caption">
+				Grounding point on intake manifold (between cyl 3 & 4)
+				</p>
+			</div>
+			<div style="text-align: center;"><img src="images/DSCN0816.jpg" alt="Switched Power Source" /></div>
+			<h2>Finishing up-</h2>
+			<p>
+			I lied earlier, there's more!  First, you need to disconnect the ETS computer under the drivers seat.  Also, you'll want to tie up the old wiring from 
+			the ETS system so it doesn't get snagged or melted.  
+			</p>
+			<p>
+			Next, reroute the vacuum hoses for a non-TCS car.  You need a hose going to the BPV and one going into the car for the boost gauge. The lines for the FPR, 
+			Map Sensor, and PCV shouldn't need to be changed.
+			</p>
+			<p>
+			The two vacuum switches on the false firewall and drivers side inner fender can be removed.  Remove any left over ETS hoses and cap any open intake nipples. 
+			</p>
+			<div style="text-align: center;">
+				<img src="images/vachose4.jpg" alt="Vacuum Hose Routing" />
+				<p class="caption">
+				This isn't my image; just found it on the net.   It's of an older car but this is what your going for.
+				</p>
+			</div>
+			<p>
+			Once all that is done, start up the car and give it some revs.  If every thing's okay then chances are you did it right.  Tape up your wire harness and enjoy.
+			</p>
+			<p>
+			Going back to TCS/ETS is reversal of this procedure.
+			</p>
+			<div id="glossaryBlock">
+				<ul>
+					<li>AIC: Air Idle Control Valve</li>
+					<li>C900: Classic 900 -93</li>
+					<li>ECU: Engine Control Unit (located in left hand side of the plastic aquarium in between the firewall and false firewall)
+					<li>EPC: Saab Electronic Parts Catalog</li>
+					<li>ETS: Electronic Throttle System (ETS/TCS are closely related and the terms are used somewhat interchangeably throughout the guide)</li>
+					<li>NG900: New Generation 900 94-</li>
+					<li>P/N: Part Number</li>
+					<li>T5.2: Trionic 5.2</li>
+					<li>T5.5: Trionic 5.5</li>
+					<li>TCS: Traction Control System</li>
+					<li>TPS: Throttle Position Sensor</li>
+				</ul>	
+			</div>
+		</article>
+	</section>
+	<footer>
+		<a href="tcsRemoval_1.html">Page 1</a> | <a href="tcsRemoval_2.html">Page 2</a>
+	</footer>
+</body>
+</html>

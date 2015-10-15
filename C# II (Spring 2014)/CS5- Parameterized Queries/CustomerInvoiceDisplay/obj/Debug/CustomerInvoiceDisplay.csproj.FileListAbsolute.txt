@@ -1,0 +1,11 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\bin\Debug\MMABooks.mdf
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\bin\Debug\MMABooks_log.ldf
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.frmCustomerInvoiceDisplay.resources

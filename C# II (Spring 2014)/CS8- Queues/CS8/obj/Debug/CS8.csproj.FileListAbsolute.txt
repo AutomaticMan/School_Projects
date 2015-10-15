@@ -1,0 +1,8 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS8\obj\Debug\CS8.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS8\obj\Debug\CS7.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS8\bin\Debug\CS7.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS8\bin\Debug\CS7.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS8\obj\Debug\CS8.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS8\obj\Debug\CS7.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS8\obj\Debug\CS8.CS8Form.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\CS8\obj\Debug\CS8.Properties.Resources.resources

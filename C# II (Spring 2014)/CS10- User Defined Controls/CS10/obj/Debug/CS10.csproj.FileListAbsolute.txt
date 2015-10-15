@@ -1,0 +1,12 @@
+C:\Users\Robert\Desktop\CS10\obj\Debug\FinancialCalculations.exe
+C:\Users\Robert\Desktop\CS10\obj\Debug\FinancialCalculations.pdb
+C:\Users\Robert\Desktop\CS10\bin\Debug\FinancialCalculations.exe
+C:\Users\Robert\Desktop\CS10\bin\Debug\FinancialCalculations.pdb
+C:\Users\Robert\Desktop\CS10\bin\Debug\cuteButton.dll
+C:\Users\Robert\Desktop\CS10\obj\Debug\CS10.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\CS10\obj\Debug\FinancialCalculations.frmFutureValue.resources
+C:\Users\Robert\Desktop\CS10\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Users\Robert\Desktop\CS10\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Users\Robert\Desktop\CS10\obj\Debug\FinancialCalculations.frmTab.resources
+C:\Users\Robert\Desktop\CS10\obj\Debug\FinancialCalculations.Properties.Resources.resources
+C:\Users\Robert\Desktop\CS10\obj\Debug\CS10.csproj.GenerateResource.Cache

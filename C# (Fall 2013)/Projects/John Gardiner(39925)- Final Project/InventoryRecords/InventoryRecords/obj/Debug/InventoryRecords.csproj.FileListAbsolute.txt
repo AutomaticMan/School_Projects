@@ -1,0 +1,9 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\InventoryRecords\InventoryRecords\bin\Debug\InventoryRecords.exe.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\InventoryRecords\InventoryRecords\bin\Debug\InventoryRecords.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\InventoryRecords\InventoryRecords\bin\Debug\InventoryRecords.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\InventoryRecords\InventoryRecords\obj\Debug\InventoryRecords.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\InventoryRecords\InventoryRecords\obj\Debug\InventoryRecords.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\InventoryRecords\InventoryRecords\obj\Debug\InventoryRecords.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\programming_projects\C#\Projects\John Gardiner(39925)- Final Project\InventoryRecords\InventoryRecords\bin\Debug\InventoryRecords.exe.config
+C:\Users\Robert\Documents\programming_projects\C#\Projects\John Gardiner(39925)- Final Project\InventoryRecords\InventoryRecords\obj\Debug\InventoryRecords.exe
+C:\Users\Robert\Documents\programming_projects\C#\Projects\John Gardiner(39925)- Final Project\InventoryRecords\InventoryRecords\obj\Debug\InventoryRecords.pdb

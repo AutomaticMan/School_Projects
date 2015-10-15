@@ -1,0 +1,9 @@
+c:\users\john\documents\visual studio 2012\Projects\ManyButtons\ManyButtons\bin\Debug\ManyButtons.exe.config
+c:\users\john\documents\visual studio 2012\Projects\ManyButtons\ManyButtons\bin\Debug\ManyButtons.exe
+c:\users\john\documents\visual studio 2012\Projects\ManyButtons\ManyButtons\bin\Debug\ManyButtons.pdb
+c:\users\john\documents\visual studio 2012\Projects\ManyButtons\ManyButtons\obj\Debug\ManyButtons.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2012\Projects\ManyButtons\ManyButtons\obj\Debug\ManyButtons.Form1.resources
+c:\users\john\documents\visual studio 2012\Projects\ManyButtons\ManyButtons\obj\Debug\ManyButtons.Properties.Resources.resources
+c:\users\john\documents\visual studio 2012\Projects\ManyButtons\ManyButtons\obj\Debug\ManyButtons.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2012\Projects\ManyButtons\ManyButtons\obj\Debug\ManyButtons.exe
+c:\users\john\documents\visual studio 2012\Projects\ManyButtons\ManyButtons\obj\Debug\ManyButtons.pdb

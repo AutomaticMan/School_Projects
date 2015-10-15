@@ -1,0 +1,168 @@
+﻿/*
+*
+*  MODIFIED for Tempest Assignment by John Gardiner
+*  
+*/
+
+/*
+   New Perspectives on HTML
+   Tutorial 1
+   Tutorial Case
+
+   J-Prop Shop Style Sheet
+   Author: David Vinet
+   Date:   3/1/2014
+
+   Filename:         jpsstyles.css
+   Supporting Files: none
+
+*/
+
+/* Section Styles */
+
+body {
+margin: 0px auto;
+padding: 0px;
+line-height: 1.5em;
+width: 680px;
+font-family: Verdana, Geneva, sans-serif
+}
+
+header {
+width: 100%;
+}
+
+section {
+width: 66%;
+float: left;
+}
+
+section.contentpage {
+width: 100%;
+float: left;
+}
+
+aside {
+width: 32%;
+margin-top: 2em;
+float: left;
+border: 2px solid #FFFF00;
+background-color: rgb(5, 161, 15);
+}
+
+footer {
+clear: left;
+width: 100%;
+text-align: center;
+margin-top: 5px;
+}
+
+/* Block Styles */
+h1, h2, h3, h4, h5, h6 {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+section h1 {
+margin: 1em 0em;
+margin-bottom: 0.4em;
+font-size: 1.3em;
+}
+
+section h2 {
+margin: 1em 0em;
+margin-bottom: 0em;
+margin-top: 0.2em;
+font-size: 1.1em;
+}
+
+section h3 {
+margin: 1em 0em;
+margin-bottom: 0.1em;
+margin-top: 0.2em;
+font-size: 1.1em;
+}
+
+section h4 {
+margin: 1em 0em;
+margin-top: 0em;
+font-size: .8em;
+}
+ 
+.cast dt { 
+float: left; 
+clear: left; 
+width: 100px; 
+text-align: right; 
+font-weight: bold; 
+color: #05A10F;
+font-size: 1.1em; 
+} 
+ 
+.commentary dt { 
+float: left; 
+font-weight: bold;
+font-size: 1.1em; 
+color: #05A10F; 
+} 
+ 
+dt:after { 
+content: ":"; 
+} 
+ 
+.cast dd { 
+margin: 0 0 0 110px;  
+font-size: 1em;
+}
+
+.commentary dd { 
+padding: 0 0 1.5em 0; 
+text-indent:10px;
+font-size: 1em;
+}
+
+section p{
+margin: 1em 0em;
+font-size: 1em;
+}
+
+aside p {
+font-size: .8em;
+margin: 0px 0.7em;
+}
+
+aside h2 {
+margin-bottom: 1em;
+margin-top: 1em;
+text-align: center;
+font-size: 1.1em;
+color: #FFFF00;
+margin: 0px 0.7em;
+}
+
+.sidelink a:link {
+color:#FFFFFF;
+}
+
+.sidelink a:visited {
+color:#FFFFFF;
+}
+
+.sidelink a:active {
+color:#FFFFFF;
+}
+
+a:link {
+color:#05A10F;
+}
+
+a:visited {
+color:#05A10F;
+}
+
+a:hover {
+color:#FFFF00;
+}
+
+a:active {
+color:#05A10F;
+}

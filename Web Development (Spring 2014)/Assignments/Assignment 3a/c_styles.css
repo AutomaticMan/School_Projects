@@ -1,0 +1,63 @@
+/*
+   New Perspectives on HTML
+   Tutorial 3
+   Case Problem 1
+
+   ICI Text and Color Styles
+   Author: John Gardiner
+   Date: 2/8/2014
+
+   Filename:         c_styles.css
+   Supporting Files: none
+
+*/
+
+/* Body styles */
+
+body {
+	background-color: black;
+	color: white;
+	font-family: Century Gothic, sans-serif;
+}
+
+/* Heading styles */
+
+header h1 {
+	color: yellow;
+	font-family: Courier New, Courier, monospace;
+	font-size: 28px;
+	letter-spacing: 20px;
+	text-align: center;
+}
+
+article h2 {
+	font-size: 24px;
+	font-weight: normal;
+	letter-spacing: 5px;
+	text-align: center;
+}
+
+/* Article styles*/
+
+article p {
+	text-align: justify;
+}
+
+/* Strong styles */
+
+strong.keyword {
+	color: yellow;
+	font-weight: normal;
+}
+
+/* Footer styles */
+
+footer p {
+	text-align: center;
+}
+
+/* Inline image styles */
+
+img [usemap] {
+	border-width: 100px;
+}
